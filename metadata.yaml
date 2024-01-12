@@ -1,0 +1,34 @@
+_repo: War-in-Heaven_72498
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pratt, Fletcher
+    alias: Pratt, Murray Fletcher
+    birthdate: 1897
+    deathdate: 1956
+    gutenberg_agent_id: '40954'
+    url: http://www.gutenberg.org/2009/agents/40954
+    wikipedia: https://en.wikipedia.org/wiki/Fletcher_Pratt
+description: ''
+gutenberg_issued: '2023-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72498'
+language: en
+pgterms:marc905: 20231209113040pratt
+pgterms:marc906: '1953'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bKing-Size Publications, Inc., $c1953.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcsh 'Space warfare'
+- !lcc 'UG'
+- !lcc 'PS'
+- GITenberg
+title: War in Heaven
+url: http://www.gutenberg.org/ebooks/72498
