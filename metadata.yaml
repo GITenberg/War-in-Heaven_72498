@@ -1,5 +1,8 @@
 _repo: War-in-Heaven_72498
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72498-h/images/cover.jpg
 creator:
   author:
     agent_name: Pratt, Fletcher
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40954
     wikipedia: https://en.wikipedia.org/wiki/Fletcher_Pratt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72498#War-in-Heaven
 gutenberg_issued: '2023-12-24'
 gutenberg_type: Text
 identifiers:
